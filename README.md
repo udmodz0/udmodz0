@@ -9,9 +9,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=udmodz0&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Views"/>
-<img src="https://img.shields.io/github/followers/udmodz0?style=for-the-badge&color=7b61ff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/udmodz0?style=for-the-badge&color=ffd700&labelColor=0d1117&label=TOTAL+STARS" alt="Stars"/>
 
 </div>
 
